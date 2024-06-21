@@ -26,3 +26,7 @@ To create an attractor curve, press Shift-A to add an object and select Curve me
 At the bottom there should now be an entry "Attractors...".
 
 Select that and an attractor of your choice (Lorenz is a good place to start).
+
+## Example Attractors rendered in Blender
+
+![screenshot](/images/Aizawa Attractor.png)
