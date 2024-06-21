@@ -5,7 +5,7 @@ Strange Attractor plugin for Blender. This is a fork from https://github.com/mty
 
 A Strange Attractor is a concept in chaos theory that describes the behavior of chaotic systems. Unlike a regular attractor, which predicts stable patterns with fixed positions, a strange attractor leads to semi-stable patterns that lack a specific spatial location. One famous example is the Lorenz attractor, which emerged from a mathematical experiment in weather prediction and revealed an unexpected link between weather, chaos, and fractals. These attractors exhibit fascinating properties, such as points on the attractor being arbitrarily far apart at different times, making their behavior quite unpredictable.
 
-## attractor_blender_4_2.py 
+## Information
 
 Corrected by Spirou4D@laposte.net, 2022-12-09
 
@@ -13,19 +13,18 @@ Corrected by Spirou4D@laposte.net, 2022-12-09
 
 Works with Blender version 3.3 and upwards
 
-Installation instructions: Go to Edit->Preferences
+Manual Installation: 
 
-Select Add-ons from the tabs on the left of the Window. 
+- Go to Edit -> Preferences
+- Select Extensions from the left tabs
+- Top right, select the down arrow and then 'Install from Disk...'
+- Find and select the file Strange Attractors .ZIP file and choose 'Install from Disk', the extension will now be installed
 
-At the top of the window click "Install..."
+## Adding a Strange Attractor
 
-Find and select the file ```attractor_blender_3_3.py``` and click the ```Install Add-on...``` button.
-
-To create an attractor curve, press Shift-A to add an object and select Curve menu. 
-
-At the bottom there should now be an entry "Attractors...".
-
-Select that and an attractor of your choice (Lorenz is a good place to start).
+- In Object mode, press Shift-A to add an object and select Curve > Strange Attractors
+- Select that and an attractor of your choice (Lorenz is a good place to start)
+- In the object data properties, play around with the settings in Geometry
 
 ## Example Attractors rendered in Blender
 
