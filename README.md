@@ -29,4 +29,5 @@ Select that and an attractor of your choice (Lorenz is a good place to start).
 
 ## Example Attractors rendered in Blender
 
-![screenshot](/images/Aizawa Attractor.png)
+![alt text](https://github.com/Googyflip/attractor/blob/master/images/Aizawa%20Attractor.jpg)
+
