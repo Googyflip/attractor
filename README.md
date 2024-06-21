@@ -31,3 +31,7 @@ Select that and an attractor of your choice (Lorenz is a good place to start).
 
 ![alt text](https://github.com/Googyflip/attractor/blob/master/images/Aizawa%20Attractor.jpg)
 
+![alt text](https://github.com/Googyflip/attractor/blob/master/images/Haldey%20Attractor.jpg)
+
+![alt text](https://github.com/Googyflip/attractor/blob/master/images/Lorenz%20Mod%201%20Attractor.jpg)
+
