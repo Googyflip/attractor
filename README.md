@@ -13,7 +13,7 @@ Corrected by Spirou4D@laposte.net, 2022-12-09
 
 Works with Blender version 3.3 and upwards
 
-Manual Installation: 
+## Manual Installation
 
 - Go to Edit -> Preferences
 - Select Extensions from the left tabs
