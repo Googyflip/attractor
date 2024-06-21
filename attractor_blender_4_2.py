@@ -16,6 +16,7 @@
 # Corrected by Spirou4D@laposte.net, 2022-12-09.
 
 # 12/09/2022 7bitretro/Googylip added TSUCS1 Attractor
+# 21/06/2024 7bitretro/Googyflip updated repo to support Blender 4.2 Extensions
 
 import bpy
 import math
@@ -27,7 +28,7 @@ from bpy.props import IntProperty
 
 bl_info = {
   "author": "mike.tyka@gmail.com",
-  "blender": (2, 90, 0),
+  "blender": (3, 60, 0),
   "category": "Add Curve",
   "description": "Creates a strange attractor curve",
   "location": "View3D > Add > Curve > Attractors",
