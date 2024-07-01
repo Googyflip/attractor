@@ -3,7 +3,7 @@ schema_version = "1.0.0"
 # Example of manifest file for a Blender extension
 # Change the values according to your extension
 id = "strange_attractors"
-version = "2.0.0"
+version = "2.1.0"
 name = "Stranger Attractors"
 tagline = "Add Strange Attractor curves"
 maintainer = "7bitretro <justinh73@gmail.com.com>"
@@ -11,7 +11,7 @@ maintainer = "7bitretro <justinh73@gmail.com.com>"
 type = "add-on"
 
 # Optional link to documentation, support, source files, etc
-# website = "https://github.com/Googyflip/attractor"
+# website = "https://github.com/Googyflip/strangeattractors"
 
 # Optional list defined by Blender and server, see:
 # https://docs.blender.org/manual/en/dev/advanced/extensions/tags.html
