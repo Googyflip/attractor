@@ -28,7 +28,7 @@ from bpy.props import IntProperty
 
 bl_info = {
   "author": "mike.tyka@gmail.com",
-  "blender": (3, 60, 0),
+  "blender": (4, 20, 0),
   "category": "Add Curve",
   "description": "Creates a strange attractor curve",
   "location": "View3D > Add > Curve > Attractors",
