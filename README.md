@@ -1,7 +1,7 @@
-Strange Attractor
+Chaos Convergence
 =================
 
-Strange Attractor plugin for Blender. This is a fork from https://github.com/mtyka/attractor from original excellent work. This has been maintained by @7bitretro with some corrections from Spirou4D@laposte.net, to update the code for compatibility for more recent versions of Blender.
+Chaos Convergence plugin for Blender. This is a fork from https://github.com/mtyka/attractor from original excellent work. This has been maintained by @7bitretro with some corrections from Spirou4D@laposte.net, to update the code for compatibility for more recent versions of Blender.
 
 A Strange Attractor is a concept in chaos theory that describes the behavior of chaotic systems. Unlike a regular attractor, which predicts stable patterns with fixed positions, a strange attractor leads to semi-stable patterns that lack a specific spatial location. One famous example is the Lorenz attractor, which emerged from a mathematical experiment in weather prediction and revealed an unexpected link between weather, chaos, and fractals. These attractors exhibit fascinating properties, such as points on the attractor being arbitrarily far apart at different times, making their behavior quite unpredictable.
 
